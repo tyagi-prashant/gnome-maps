@@ -35,6 +35,7 @@
     <file>osmEdit.js</file>
     <file>osmEditDialog.js</file>
     <file>osmTypeSearchEntry.js</file>
+    <file>osmTypeListRow.js</file>
     <file>osmTypeLookup.js</file>
     <file>osmTypeSearchPopover.js</file>
     <file>osmUtils.js</file>
