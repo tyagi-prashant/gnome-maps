@@ -34,6 +34,9 @@
     <file>osmConnection.js</file>
     <file>osmEdit.js</file>
     <file>osmEditDialog.js</file>
+    <file>osmTypeSearchEntry.js</file>
+    <file>osmTypeLookup.js</file>
+    <file>osmTypeSearchPopover.js</file>
     <file>osmUtils.js</file>
     <file>overpass.js</file>
     <file>place.js</file>
