@@ -46,6 +46,7 @@
     <file>placeListRow.js</file>
     <file>placeMarker.js</file>
     <file>placeStore.js</file>
+    <file>propagatingSearchPopover.js</file>
     <file>route.js</file>
     <file>routeEntry.js</file>
     <file>routeQuery.js</file>
